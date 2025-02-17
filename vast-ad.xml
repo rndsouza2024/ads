@@ -3,7 +3,7 @@
     <InLine>
       <AdSystem>VAST 3.0</AdSystem>
       <AdTitle>Pre-Roll Ad</AdTitle>
-      <Impression><![CDATA[https://example.com/impression]]></Impression>
+      <!-- <Impression><![CDATA[https://example.com/impression]]></Impression> -->
       <Creatives>
         <Creative sequence="1">
           <Linear>
